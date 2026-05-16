@@ -9,7 +9,7 @@
 """
 
 
-## ⚡ Flash-Sender v3.0 - Blockchain Simulation & Web3 Learning Tool
+## ⚡ Flash-Sender v3.0 - Blockchain Simulation & Web3 Learning Tool👍
 
 ███████╗██╗      █████╗ ███████╗██╗  ██╗
  ██╔════╝██║     ██╔══██╗██╔════╝██║  ██║
